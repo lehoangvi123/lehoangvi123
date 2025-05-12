@@ -1,6 +1,6 @@
 # Vĩ's GitHub Profile
 
-Welcome to my GitHub! I'm Vĩ, a passionate software engineer with a strong focus on full-stack development. I specialize in building scalable, efficient, and innovative software solutions. Below are some key details about my skills, projects, and goals.
+Welcome to my GitHub! I'm Vĩ, a passionate software engineer with a strong focus on full-stack development. I specialize in building scalable, efficient, and innovative software solutions. Below are some key details about my skills, projects, and goals. 
 
 ## 👨‍💻 Skills & Technologies
 
@@ -14,6 +14,7 @@ Welcome to my GitHub! I'm Vĩ, a passionate software engineer with a strong focu
   - Spring Boot (Java)
   - Python (Flask, Django)
   - MongoDB, PostgreSQL, MySQL
+  - Java Server Page
 
 - **DevOps:**
   - Docker
@@ -46,23 +47,24 @@ Welcome to my GitHub! I'm Vĩ, a passionate software engineer with a strong focu
 
 ### 1. **[Music Application]**
    - **Description:** A brief description of your project.
-   - **Tech Stack:** Node.js, MongoDB, React
-   - **Link:** [Project Demo/Repo Link](#)
+   - **Tech Stack:** HTML, CSS, Javascript
+   - **Link:** [Repo Link](https://github.com/lehoangvi123/Music-Player)
+   - **Website:** [Website](https://lehoangvi123.github.io/CodeMusicPlayer)
 
 ### 2. **[MERN Employee Management System]**
    - **Description:** Another project description.
-   - **Tech Stack:** Spring Boot, PostgreSQL, JavaScript
-   - **Link:** [Project Demo/Repo Link](#)
+   - **Tech Stack:** Nodejs, MongoDB, Javascript JSX, ReactJS 
+   - **Link:** [Repo Link](https://github.com/Quanchip/wad-employee-management-app/tree/develop)
 
 ### 3. **[2048 Game]**
    - **Description:** Another cool project you're working on.
    - **Tech Stack:** Java
-   - **Link:** [Project Demo/Repo Link](#)
+   - **Link:** [Repo Link](https://github.com/lehoangvi123/2048-game)
 
-### 3. **[Candy Crush Saga ]**
+### 4. **[Candy Crush Saga ]**
    - **Description:** Another cool project you're working on.
-   - **Tech Stack:** Java
-   - **Link:** [Project Demo/Repo Link](#)
+   - **Tech Stack:** Java 
+   - **Link:** [Repo Link](https://github.com/tttduong/Candy-Crush-Lab5)
 
 ## 📚 Learning & Development
 
@@ -79,10 +81,10 @@ Currently exploring:
 
 ## 📬 Connect with Me
 
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- 💼 LinkedIn: [linkedin.com/in/le-hoang-vi](https://www.linkedin.com/in/l%C3%AA-ho%C3%A0ng-v%C4%A9-b9ab7121a/)
 - 📧 Email: [lehoangvi.work@gmail.com](mailto:lehoangvi.work@gmail.com)
 - 📘 Facebook: [facebook.com/lehoangvi.1508](https://www.facebook.com/lehoangvi.1508) 
-- 💻 GitHub: [github.com/vithen01](https://github.com/vithen01)
+- 💻 GitHub: [github.com/vithen01](https://github.com/lehoangvi123)
 - 🌐 Personal Website / Portfolio: [yourwebsite.com](https://yourwebsite.com) *(optional)*  
 - Mobile phone: (+84) 0824318186
 
