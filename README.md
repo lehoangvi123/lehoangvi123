@@ -55,8 +55,9 @@ Welcome to my GitHub! I'm Vĩ, a passionate software engineer with a strong focu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/architecture/architecture-original.svg" width="30"/> 
 </p>
 
+
  
-### 🛠️ Tech I work on:
+### 🛠️ Tech I work on: 
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
