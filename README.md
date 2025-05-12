@@ -84,9 +84,8 @@ Currently exploring:
 - 💼 LinkedIn: [linkedin.com/in/le-hoang-vi](https://www.linkedin.com/in/l%C3%AA-ho%C3%A0ng-v%C4%A9-b9ab7121a/)
 - 📧 Email: [lehoangvi.work@gmail.com](mailto:lehoangvi.work@gmail.com)
 - 📘 Facebook: [facebook.com/lehoangvi.1508](https://www.facebook.com/lehoangvi.1508) 
-- 💻 GitHub: [github.com/vithen01](https://github.com/lehoangvi123)
-- 🌐 Personal Website / Portfolio: [yourwebsite.com](https://yourwebsite.com) *(optional)*  
-- Mobile phone: (+84) 0824318186
+- 💻 GitHub: [github.com/lehoangvi123](https://github.com/lehoangvi123) 
+- 📱Mobile phone: (+84) 0824318186
 
 
 Feel free to explore my repositories and reach out if you have any questions or would like to collaborate!
