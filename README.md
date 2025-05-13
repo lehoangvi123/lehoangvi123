@@ -130,5 +130,10 @@ Currently exploring:
 - 💻 GitHub: [github.com/lehoangvi123](https://github.com/lehoangvi123) 
 - 📱Mobile phone: (+84) 0824318186
 
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+
+
 
 Feel free to explore my repositories and reach out if you have any questions or would like to collaborate!
