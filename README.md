@@ -112,11 +112,11 @@ Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year studen
    - **Description:** A full-stack web application for managing employee records. It allows users to perform CRUD operations (Create, Read, Update, Delete) on employee data, such as name, position, salary, and more. Designed with a clean UI and responsive design, the system enables efficient employee tracking for small to medium-sized businesses.
    - **Member:** 3 Members
    - **My roles:**
-       Leader of the MERN Employee Management System
-       Developing an admin dashboard for an Employee Management System using the MERN Stack 
+       Leader of the MERN Employee Management System.
+       Developing an admin dashboard for an Employee Management System using the MERN Stack.
        Managing Employee Salaries, including adding and displaying salary details. 
-       Enabling cascade delete functionality for Departments, Employees, Salaries, and Leaves
-       Employee Attendence Management System / React and Node.js MERN Stack Project 
+       Enabling cascade delete functionality for Departments, Employees, Salaries, and Leaves.
+       Employee Attendence Management System / React and Node.js MERN Stack Project.
    - **Tech Stack:** Node.js, Express.js, MongoDB, JavaScript, ReactJS, JSX  
    - **Project Type:** CRUD-based web application for internal business management 
    - **Github and Instruction:** [Repo Link](https://github.com/Quanchip/wad-employee-management-app/tree/develop)
@@ -125,10 +125,10 @@ Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year studen
    - **Description:** A desktop version of the popular 2048 puzzle game built using Java. The game features a grid-based layout where users combine tiles with the same value to reach the number 2048. It includes intuitive keyboard controls, a scoring system, and game-over detection. Designed for practicing object-oriented programming and logic development in Java.
    - **Member:** Solo Project
    - **My roles:**
-       Designed the game board and user interface using Java Swing
-       Implemented game mechanics including tile merging, random tile spawning, and movement logic
-       Added scoring system and game-over condition
-       Structured the code using object-oriented principles for better maintainability
+       Designed the game board and user interface using Java Swing.
+       Implemented game mechanics including tile merging, random tile spawning, and movement logic.
+       Added scoring system and game-over condition.
+       Structured the code using object-oriented principles for better maintainability.
    - **Tech Stack:** Java (Java Swing, OOP) 
    - **Project Type:** Desktop Game Puzzle Application  
    - **Github and Instruction:** [Repo Link](https://github.com/lehoangvi123/2048-game)
@@ -138,10 +138,10 @@ Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year studen
    - **Description:** A simplified version of the famous Candy Crush Saga game developed using Java. This project simulates the core mechanics of matching 3 or more candies, scoring, and cascading effects. Built for practicing Java GUI development and algorithmic logic for matching games.
    - **Member:** 5 Members
    - **My roles:**
-       GUI Designer & Technical Writer
-       Designed the graphical user interface (GUI) using Java Swing
-       Created and customized the game background and visual elements 
-       Wrote the project documentation and final report outlining features, design, and implementation details 
+       GUI Designer & Technical Writer.
+       Designed the graphical user interface (GUI) using Java Swing.
+       Created and customized the game background and visual elements.
+       Wrote the project documentation and final report outlining features, design, and implementation details.
    - **Tech Stack:** Java
    - **Github and Instruction:** [Repo Link](https://github.com/tttduong/Candy-Crush-Lab5) 
   
