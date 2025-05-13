@@ -106,7 +106,7 @@ Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year studen
    - **Project Type:** Personal Project
    - **Github:** [Repo Link](https://github.com/lehoangvi123/Music-Player)
    - **Website:** [Website](https://lehoangvi123.github.io/CodeMusicPlayer)
-   - **Picture of the project:** [Link Drive]()
+
 
 ### 2. **MERN Employee Management System**
    - **Description:** A full-stack web application for managing employee records. It allows users to perform CRUD operations (Create, Read, Update, Delete) on employee data, such as name, position, salary, and more. Designed with a clean UI and responsive design, the system enables efficient employee tracking for small to medium-sized businesses.
@@ -120,9 +120,7 @@ Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year studen
    - **Tech Stack:** Node.js, Express.js, MongoDB, JavaScript, ReactJS, JSX
    - **Project Type:** CRUD-based web application for internal business management
    - **Github:** [Repo Link](https://github.com/Quanchip/wad-employee-management-app/tree/develop)
-   - **Picture of the project:** [Link Drive]()
-   - **Instruction:** 
-
+  
 ### 3. **2048 Game**
    - **Description:** A desktop version of the popular 2048 puzzle game built using Java. The game features a grid-based layout where users combine tiles with the same value to reach the number 2048. It includes intuitive keyboard controls, a scoring system, and game-over detection. Designed for practicing object-oriented programming and logic development in Java.
    - **Member:** Solo Project
@@ -134,8 +132,7 @@ Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year studen
    - **Tech Stack:** Java (Java Swing, OOP)
    - **Project Type:** Desktop Game Puzzle Application 
    - **Github:** [Repo Link](https://github.com/lehoangvi123/2048-game)
-   - **Picture of the Project:** [Link Drive]()
-   - **Insturction:** 
+  
 
 ### 4. **Candy Crush Saga**
    - **Description:** A simplified version of the famous Candy Crush Saga game developed using Java. This project simulates the core mechanics of matching 3 or more candies, scoring, and cascading effects. Built for practicing Java GUI development and algorithmic logic for matching games.
@@ -147,8 +144,7 @@ Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year studen
       +Wrote the project documentation and final report outlining features, design, and implementation details
    - **Tech Stack:** Java
    - **Github:** [Repo Link](https://github.com/tttduong/Candy-Crush-Lab5) 
-   - **Picture of the Project:** [Link Drive]()
-   - **Instruction:** 
+  
 
 ## 📚 Learning & Development
 
