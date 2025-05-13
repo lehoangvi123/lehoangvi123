@@ -1,6 +1,7 @@
 # Vĩ's GitHub Profile
 
-Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year student who study in Ho Chi Minh International University. I 
+Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year student who study in Ho Chi Minh International University. I enjoy crafting user-centric web applications using technologies like **Node.js**, **React.js**, **Java**, **MongoDB**, and **Spring Boot**. I'm also expanding into mobile development with **Flutter** and exploring system-level programming with **Golang**. My journey isn't just about tech—I'm equally passionate about education, community projects, and building tools for good, especially in faith-based and educational domains. I am also confident in English communication. I take pride in my communication skills, especially in English, which I use confidently in both academic and professional environments. Beyond coding, I value a balanced lifestyle, strong work ethic, and continuous self-improvement—whether through music, teaching, or volunteering with children.  
+
 
 # My general introduction
 🔭 I’m currently looking for a full-stack job and tech-for-good initiatives.  
