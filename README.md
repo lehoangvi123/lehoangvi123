@@ -2,24 +2,11 @@
 
 Welcome to my GitHub! I'm Vĩ, a passionate software engineer with a strong focus on full-stack development. I specialize in building scalable, efficient, and innovative software solutions. Below are some key details about my skills, projects, and goals. 
 
-## 👨‍💻 Skills & Technologies
 
 
 
 
-### 🚀 DevOps 
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
-  </a>
-</p>
-
-
-
-### 🛠 Tools 
+### 🛠 IDE & Tools
 <p align="left">
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30"/>
