@@ -83,6 +83,9 @@ Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year studen
   </a>
   <a href="https://golang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  </a> 
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
 
