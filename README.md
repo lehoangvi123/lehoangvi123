@@ -132,7 +132,7 @@ Currently exploring:
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/lehoangvi123/lehoangvi123/blob/output/github-contribution-grid-snake.svg)
 
 
 
