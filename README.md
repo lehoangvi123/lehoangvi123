@@ -97,12 +97,12 @@ Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year studen
 ### 1. **Music Application**
    - **Description:** A fully functional web-based music player that allows users to play, pause, skip, shuffle, and loop songs. The interface displays the currently playing song’s name, artist, and album art. Users can also search through a list of available songs. The app provides a smooth and interactive user experience with a clean and responsive UI.
    - **Member:** Solo Project
-   - **My Roles:**
-      Front-End Developer  
+   - **My Roles:** 
+      Front-End Developer   
       Designed and developed the music player UI/UX  
-      Implemented JavaScript logic for core music control features (play, pause, skip, repeat, shuffle)  
-      Integrated real-time song search functionality
-   - **Tech Stack:** HTML, CSS, Javascript
+      Implemented JavaScript logic for core music control features (play, pause, skip, repeat, shuffle)    
+      Integrated real-time song search functionality 
+   - **Tech Stack:** HTML, CSS, Javascript 
    - **Project Type:** Personal Project
    - **Github and Instruction:** [Repo Link](https://github.com/lehoangvi123/Music-Player)
    - **Website:** [Website](https://lehoangvi123.github.io/CodeMusicPlayer)
@@ -113,12 +113,12 @@ Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year studen
    - **Member:** 3 Members
    - **My roles:**
        Leader of the MERN Employee Management System
-       Developing an admin dashboard for an Employee Management System using the MERN Stack
-       Managing Employee Salaries, including adding and displaying salary details.
+       Developing an admin dashboard for an Employee Management System using the MERN Stack 
+       Managing Employee Salaries, including adding and displaying salary details. 
        Enabling cascade delete functionality for Departments, Employees, Salaries, and Leaves
-       Employee Attendence Management System / React and Node.js MERN Stack Project
-   - **Tech Stack:** Node.js, Express.js, MongoDB, JavaScript, ReactJS, JSX
-   - **Project Type:** CRUD-based web application for internal business management
+       Employee Attendence Management System / React and Node.js MERN Stack Project 
+   - **Tech Stack:** Node.js, Express.js, MongoDB, JavaScript, ReactJS, JSX  
+   - **Project Type:** CRUD-based web application for internal business management 
    - **Github and Instruction:** [Repo Link](https://github.com/Quanchip/wad-employee-management-app/tree/develop)
   
 ### 3. **2048 Game**
@@ -129,8 +129,8 @@ Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year studen
        Implemented game mechanics including tile merging, random tile spawning, and movement logic
        Added scoring system and game-over condition
        Structured the code using object-oriented principles for better maintainability
-   - **Tech Stack:** Java (Java Swing, OOP)
-   - **Project Type:** Desktop Game Puzzle Application 
+   - **Tech Stack:** Java (Java Swing, OOP) 
+   - **Project Type:** Desktop Game Puzzle Application  
    - **Github and Instruction:** [Repo Link](https://github.com/lehoangvi123/2048-game)
   
 
@@ -140,8 +140,8 @@ Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year studen
    - **My roles:**
        GUI Designer & Technical Writer
        Designed the graphical user interface (GUI) using Java Swing
-       Created and customized the game background and visual elements
-       Wrote the project documentation and final report outlining features, design, and implementation details
+       Created and customized the game background and visual elements 
+       Wrote the project documentation and final report outlining features, design, and implementation details 
    - **Tech Stack:** Java
    - **Github and Instruction:** [Repo Link](https://github.com/tttduong/Candy-Crush-Lab5) 
   
@@ -158,7 +158,7 @@ In the future. I am exploring:
 - Developing full-stack web and mobile applications to solve real-world problems
 - Exploring cybersecurity fundamentals, especially ethical hacking and network defense
 - Preparing to become a future educator by combining technology and teaching
-- Creating digital content to share knowledge and spread Catholic values
+- Creating digital content to share knowledge and spread Catholic values 
 
 ## 📬 Connect with Me
 
