@@ -126,8 +126,6 @@ Currently exploring:
 
 ## 📬 Connect with Me
 
-## 📬 Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/l%C3%AA-ho%C3%A0ng-v%C4%A9-b9ab7121a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
