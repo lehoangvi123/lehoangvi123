@@ -126,11 +126,26 @@ Currently exploring:
 
 ## 📬 Connect with Me
 
-- 💼 LinkedIn: [linkedin.com/in/le-hoang-vi](https://www.linkedin.com/in/l%C3%AA-ho%C3%A0ng-v%C4%A9-b9ab7121a/)
-- 📧 Email: [lehoangvi.work@gmail.com](mailto:lehoangvi.work@gmail.com)
-- 📘 Facebook: [facebook.com/lehoangvi.1508](https://www.facebook.com/lehoangvi.1508) 
-- 💻 GitHub: [github.com/lehoangvi123](https://github.com/lehoangvi123) 
-- 📱Mobile phone: (+84) 0824318186
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/l%C3%AA-ho%C3%A0ng-v%C4%A9-b9ab7121a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:lehoangvi.work@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.facebook.com/lehoangvi.1508" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://github.com/lehoangvi123" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="tel:+84824318186" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-0824318186-blue?style=for-the-badge&logo=googlevoice&logoColor=white" alt="Phone"/>
+  </a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lehoangvi123/lehoangvi123/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lehoangvi123/lehoangvi123/output/github-snake.svg" />
