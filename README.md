@@ -98,10 +98,10 @@ Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year studen
    - **Description:** A fully functional web-based music player that allows users to play, pause, skip, shuffle, and loop songs. The interface displays the currently playing song’s name, artist, and album art. Users can also search through a list of available songs. The app provides a smooth and interactive user experience with a clean and responsive UI.
    - **Member:** Solo Project
    - **My Roles:** 
-      Front-End Developer   
-      Designed and developed the music player UI/UX  
-      Implemented JavaScript logic for core music control features (play, pause, skip, repeat, shuffle)    
-      Integrated real-time song search functionality 
+      Front-End Developer.  
+      Designed and developed the music player UI/UX.  
+      Implemented JavaScript logic for core music control features (play, pause, skip, repeat, shuffle).  
+      Integrated real-time song search functionality.
    - **Tech Stack:** HTML, CSS, Javascript 
    - **Project Type:** Personal Project
    - **Github and Instruction:** [Repo Link](https://github.com/lehoangvi123/Music-Player)
