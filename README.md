@@ -1,6 +1,15 @@
 # Vĩ's GitHub Profile
 
-Welcome to my GitHub! I'm Vĩ, a passionate software engineer with a strong focus on full-stack development. I specialize in building scalable, efficient, and innovative software solutions. Below are some key details about my skills, projects, and goals. 
+Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year student who study in Ho Chi Minh International University. I 
+
+# My general introduction
+- 🔭 I’m currently looking for full-stack job and tech-for-good initiatives.
+- 🌱 I’m currently learning Flutter, Golang, and modern full-stack development (MERN, Spring Boot) for further development like mobile app and modern full-stack app
+- 🤝 I’m looking to collaborate on educational platforms, open-source Catholic tools, or productivity apps.
+- 💬 Ask me about Java, Node.js, Spring Boot, and MERN stack.
+- 📫 How to reach me: lehoangvi.work@gmail.com
+- ❤️ Fun fact: I love teaching, coding software platform, children’s ministry, and playing music (piano, guitar, violin). 
+
 
 
 
