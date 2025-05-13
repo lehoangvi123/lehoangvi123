@@ -94,7 +94,7 @@ Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year studen
 
 ## 🚀 Projects 
 
-### 1. **[Music Application]**
+### 1. **Music Application**
    - **Description:** A fully functional web-based music player that allows users to play, pause, skip, shuffle, and loop songs. The interface displays the currently playing song’s name, artist, and album art. Users can also search through a list of available songs. The app provides a smooth and interactive user experience with a clean and responsive UI.
    - **Member:** Solo Project
    - **My roles:**
@@ -108,7 +108,7 @@ Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year studen
    - **Website:** [Website](https://lehoangvi123.github.io/CodeMusicPlayer)
    - **Picture of the project:** [Link Drive]()
 
-### 2. **[MERN Employee Management System]**
+### 2. **MERN Employee Management System**
    - **Description:** A full-stack web application for managing employee records. It allows users to perform CRUD operations (Create, Read, Update, Delete) on employee data, such as name, position, salary, and more. Designed with a clean UI and responsive design, the system enables efficient employee tracking for small to medium-sized businesses.
    - **Member:** 3 Members
    - **My roles:**
@@ -119,11 +119,11 @@ Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year studen
       +Employee Attendence Management System / React and Node.js MERN Stack Project
    - **Tech Stack:** Node.js, Express.js, MongoDB, JavaScript, ReactJS, JSX
    - **Project Type:** CRUD-based web application for internal business management
-   - **Link:** [Repo Link](https://github.com/Quanchip/wad-employee-management-app/tree/develop)
+   - **Github:** [Repo Link](https://github.com/Quanchip/wad-employee-management-app/tree/develop)
    - **Picture of the project:** [Link Drive]()
    - **Instruction:** 
 
-### 3. **[2048 Game]**
+### 3. **2048 Game**
    - **Description:** A desktop version of the popular 2048 puzzle game built using Java. The game features a grid-based layout where users combine tiles with the same value to reach the number 2048. It includes intuitive keyboard controls, a scoring system, and game-over detection. Designed for practicing object-oriented programming and logic development in Java.
    - **Member:** Solo Project
    - **My roles:**
@@ -133,11 +133,11 @@ Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year studen
       +Structured the code using object-oriented principles for better maintainability
    - **Tech Stack:** Java (Java Swing, OOP)
    - **Project Type:** Desktop Game Puzzle Application 
-   - **Link:** [Repo Link](https://github.com/lehoangvi123/2048-game)
+   - **Github:** [Repo Link](https://github.com/lehoangvi123/2048-game)
    - **Picture of the Project:** [Link Drive]()
    - **Insturction:** 
 
-### 4. **[Candy Crush Saga ]**
+### 4. **Candy Crush Saga**
    - **Description:** A simplified version of the famous Candy Crush Saga game developed using Java. This project simulates the core mechanics of matching 3 or more candies, scoring, and cascading effects. Built for practicing Java GUI development and algorithmic logic for matching games.
    - **Member:** 5 Members
    - **My roles:**
@@ -146,7 +146,7 @@ Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year studen
       +Created and customized the game background and visual elements
       +Wrote the project documentation and final report outlining features, design, and implementation details
    - **Tech Stack:** Java
-   - **Link:** [Repo Link](https://github.com/tttduong/Candy-Crush-Lab5) 
+   - **Github:** [Repo Link](https://github.com/tttduong/Candy-Crush-Lab5) 
    - **Picture of the Project:** [Link Drive]()
    - **Instruction:** 
 
