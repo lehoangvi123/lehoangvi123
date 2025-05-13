@@ -129,6 +129,12 @@ Currently exploring:
 - 📘 Facebook: [facebook.com/lehoangvi.1508](https://www.facebook.com/lehoangvi.1508) 
 - 💻 GitHub: [github.com/lehoangvi123](https://github.com/lehoangvi123) 
 - 📱Mobile phone: (+84) 0824318186
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lehoangvi123/lehoangvi123/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lehoangvi123/lehoangvi123/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lehoangvi123/lehoangvi123/output/github-snake.svg" />
+</picture>
+
 
 
 
