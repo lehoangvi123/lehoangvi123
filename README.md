@@ -120,6 +120,7 @@ Hello everyone, I introduce to myself that I am Le Hoang Vi, a third-year studen
    - **Tech Stack:** Node.js, Express.js, MongoDB, JavaScript, ReactJS, JSX  
    - **Project Type:** CRUD-based web application for internal business management 
    - **Github and Instruction is in the README description:** [Repo Link](https://github.com/Quanchip/wad-employee-management-app/tree/develop)
+   - **Website:** [Website](https://ems-frontend-one-ashy.vercel.app/login)
   
 ### 3. **2048 Game**
    - **Description:** A desktop version of the popular 2048 puzzle game built using Java. The game features a grid-based layout where users combine tiles with the same value to reach the number 2048. It includes intuitive keyboard controls, a scoring system, and game-over detection. Designed for practicing object-oriented programming and logic development in Java.
